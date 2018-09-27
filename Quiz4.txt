@@ -1,0 +1,54 @@
+Que1
+Option - C(Indentation Error)
+if indentation is removed, then syntax error, print statement is not enclosed in parenthesis
+when print is enclosed in parenthesis, answer is 8 ,when 2 is passed (4=2+2,8=4*2)
+
+Que2
+Option - C(3)
+as exponential has higher priority than multiplication
+
+Que3
+Option - D(Error)
+invalid syntax, print is not enclosed in brackets
+answer is "0.33"
+
+Que4
+Option - C(33.33%)
+after applying parenthesis
+
+Que5
+Option - D(ERROR)
+1. indentation error for while loop
+2. after removing indentation, print statements are not enclosed in parenthesis
+3. answercame out to be "0 1 2 0"
+        i = 0, 0<3, "0" is printed
+        i is incremented,i = 1, 1<3, "1" is printed
+        i is incremented,i = 2, 2<3, "2" is printed
+        i is incremented,i = 3, 3 !< 3, loop breaks, and else statement executes, "0" is printed
+
+Que6
+Option - B(0 1 2)
+i = 0, "0" is printed
+i is incremented, "1" is printed
+i is incremented, "2" is printed
+as i becomes 3, loop breaks
+
+Que7
+Option - D('','cd','')
+if partition value matches the string given, partition value will take the central place and right and left place would be left empty
+
+Que8
+Option - C('abef','','')
+partition value does not match the string then the string will take the left  most place and central and right place would be left empty
+
+Que9
+Option - B(abcefd)
+because index should be provided in replace function,  and also "cd" is not together
+
+Que10
+Option - D(3 44)
+parameters "t" and "v" are passed during function calling, t = 3 and values[0] = 44
+
+Que11
+Option - D(none of the above)
+not sure about it(no output)
